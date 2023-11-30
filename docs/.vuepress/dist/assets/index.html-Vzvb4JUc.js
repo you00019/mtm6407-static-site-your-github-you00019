@@ -1,0 +1,1 @@
+const e=JSON.parse(`{"key":"v-fffb8e28","path":"/guide/","title":"Here the 'Guide' page","lang":"en-CA","frontmatter":{},"headers":[{"level":2,"title":"Developer Ipsum","slug":"developer-ipsum","link":"#developer-ipsum","children":[]}],"git":{},"filePathRelative":"guide/index.md"}`);export{e as data};
